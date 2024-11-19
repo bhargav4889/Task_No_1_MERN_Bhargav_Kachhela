@@ -28,7 +28,7 @@ Install Required Package
  Run Project 
 
  ``` bash
-npm start
+npm run dev
 
 ```
 
