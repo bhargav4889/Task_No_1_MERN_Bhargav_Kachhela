@@ -6,6 +6,16 @@
 
 ## Step 2: Setup 
 
+ Download Zip Then UnZip Folder  
+   ```bash
+   cd Code
+```
+
+Then Go to Main Project Code 
+   ```bash
+   cd currency-converter
+```
+
  Install node modules 
    ```bash
    npm install
